@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatEvent">
+    <output-path>E:/plugins</output-path>
+    <root id="archive" name="ChatEvent.jar">
+      <element id="module-output" name="ChatEvent" />
+    </root>
+  </artifact>
+</component>
